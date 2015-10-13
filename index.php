@@ -19,7 +19,6 @@
 			<li>Video Games</li>
 			<li>Board Games</li>
 			<li>Warhammer 40k</li>
-			<li>Magic: the Gathering (retired)</li>
 		</ul>
 		<p>Bradley is also an avid sports watcher.  His favorite teams include:</p>
 		<ul>
