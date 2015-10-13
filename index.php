@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-	<html lang="en">
+<html lang="en">
 	<head>
 		<meta charset="utf-8"/>
 		<title>About Bradley</title>
@@ -11,7 +11,9 @@
 		Other than brief childhood years spent in El Paso, TX and Gallup, NM, he has lived in the Albuquerque area his entire life.</p>
 
 		<p>Bradley graduated from Rio Rancho High School in Rio Rancho, NM.  He attended the <a href="http://www.nmt.edu/" target="_blank">New Mexico Institute of Mining and Technology</a>, and has spent the last few years working in retail.</p>
+		<p>Bradley has one younger brother, who is currently employed as a software engineer.</p>
 		<h2>Hobbies and Interests</h2>
+		<img src="http://360.mmgn.com/Lib/Images/Articles/Normal/Top-10-Video-Game-Controllers-Of-All-Time-1087922.jpg" alt="Picture of a Super Nintendo controller"/>
 		<p>Bradley's hobbies and interests include:</p>
 		<ul>
 			<li>Video Games</li>
