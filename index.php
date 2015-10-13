@@ -20,7 +20,7 @@
 			<li>Board Games</li>
 			<li>Warhammer 40k</li>
 		</ul>
-		<p>Bradley is also an avid sports watcher.  His favorite teams include:</p>
+		<p>Bradley is also an avid sports watcher, of soccer and football in particular.  His favorite teams include:</p>
 		<ul>
 			<li><a href="http://www.evertonfc.com/" target="_blank">Everton FC</a></li>
 			<li><a href="http://www.sjearthquakes.com/" target="_blank">San Jose Earthquakes</a></li>
