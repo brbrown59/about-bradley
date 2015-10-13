@@ -8,12 +8,12 @@
 		<h1>About Bradley</h1>
 		<h2>Early Life</h2>
 		<p>Bradley was born in <a href="https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" target="_blank">Albuquerque, New Mexico</a> in 1987.
-		Other than brief childhood years spent in El Paso, TX and Gallup, NM, he has lived in the Albuquerque area his entire life.</p>
+		Other than brief childhood years spent in El Paso, TX and Gallup, NM, he has lived in the Albuquerque area his entire life (and currently plans to stay).</p>
 
 		<p>Bradley graduated from Rio Rancho High School in Rio Rancho, NM.  He attended the <a href="http://www.nmt.edu/" target="_blank">New Mexico Institute of Mining and Technology</a>, and has spent the last few years working in retail.</p>
 		<p>Bradley has one younger brother, who is currently employed as a software engineer.</p>
 		<h2>Hobbies and Interests</h2>
-		<img src="http://360.mmgn.com/Lib/Images/Articles/Normal/Top-10-Video-Game-Controllers-Of-All-Time-1087922.jpg" alt="Picture of a Super Nintendo controller"/>
+		<img src="http://i267.photobucket.com/albums/ii293/tallwhiteninja/Top-10-Video-Game-Controllers-Of-All-Time-1087922.jpg" alt="Picture of a Super Nintendo controller"/>
 		<p>Bradley's hobbies and interests include:</p>
 		<ul>
 			<li>Video Games</li>
@@ -31,6 +31,6 @@
 		<h2>Future Goals</h2>
 		<p>Bradley's current goal is to survive the Deep Dive Coding Bootcamp and become an established web developer.</p>
 		<p>Goals beyond that include taking a long soccer-watching tour of Europe and potentially conquering the known universe.</p>
-		<img src ="http://huntingtonastro.wikispaces.com/file/view/MILKYWAY.JPG/199131396/MILKYWAY.JPG" alt="Picture of the Milky Way galaxy"/>
+		<img src="http://i267.photobucket.com/albums/ii293/tallwhiteninja/MILKYWAY.jpg" alt="Picture of the Milky Way galaxy"/>
 	</body>
 </html>
