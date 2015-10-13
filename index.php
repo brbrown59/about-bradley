@@ -9,6 +9,8 @@
 		<h2>Early Life</h2>
 		<p>Bradley was born in <a href="https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" target="_blank">Albuquerque, New Mexico</a> in 1987.
 		Other than brief childhood years spent in El Paso, TX and Gallup, NM, he has lived in the Albuquerque area his entire life.</p>
+
+		<p>Bradley graduated from Rio Rancho High School in Rio Rancho, NM.  He attended the <a href="http://www.nmt.edu/" target="_blank">New Mexico Institute of Mining and Technology</a>, and has spent the last few years working in retail.</p>
 		<h2>Hobbies and Interests</h2>
 		<p>Bradley's hobbies and interests include:</p>
 		<ul>
@@ -27,5 +29,6 @@
 		<h2>Future Goals</h2>
 		<p>Bradley's current goal is to survive the Deep Dive Coding Bootcamp and become an established web developer.</p>
 		<p>Goals beyond that include taking a long soccer-watching tour of Europe and potentially conquering the known universe.</p>
+		<img src ="http://huntingtonastro.wikispaces.com/file/view/MILKYWAY.JPG/199131396/MILKYWAY.JPG" alt="Picture of the Milky Way galaxy"/>
 	</body>
 </html>
